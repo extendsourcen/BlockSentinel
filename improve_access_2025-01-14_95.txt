@@ -1,0 +1,1 @@
+Improve access control for integration (easy) - Implemented a new feature to enhance access control.

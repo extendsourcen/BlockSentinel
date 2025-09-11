@@ -1,0 +1,1 @@
+Support third-party authentication for integration (complex) - Implemented a new feature to enhance third-party authentication.

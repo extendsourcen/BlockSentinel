@@ -1,0 +1,1 @@
+Clean API calls for CI/CD (major) - Implemented a new feature to enhance API calls.
